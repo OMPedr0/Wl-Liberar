@@ -1,0 +1,36 @@
+{
+    "mysql": {
+        "database": "vrp",
+        "host": "",
+        "user": "root",
+        "password": "",
+        "port": "3306"
+    },
+    "bot": {
+        "token": "",
+        "prefix": "!"
+    },
+    "whitelist": {
+        "canal_mande_seu_id": "",
+        "cargo_sem_whitelist": "",
+        "cargo_com_whitelist": "",
+        "channellog": "",
+        "emoji_aceitar": "✅",
+        "emoji_recusar": "❌"
+    },
+    "adm": {
+        "channellogaddcar": "",
+        "channellogban": "",
+        "channellogunban": "",
+        "channellogbank": "",
+        "channellogunwl": "",
+        "channelloguser": ""
+    },
+    "name": "Fast Devs",
+    "Channel": "",
+    "Embed": {
+        "color": "RANDOM",
+        "setImage": "",
+        "author": ""
+    }
+}

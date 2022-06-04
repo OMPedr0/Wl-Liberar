@@ -1,0 +1,22 @@
+{
+  "name": "fast-devs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fast",
+  "license": "ISC",
+  "description": "Fast Devs"
+}
